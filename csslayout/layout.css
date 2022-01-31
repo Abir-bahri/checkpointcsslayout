@@ -1,0 +1,132 @@
+*{
+	padding:0;
+	margin:0;
+}
+.hero{
+	background:url('../images/bghero.png') no-repeat top right;
+	height:988px;
+}
+.navbar{
+	margin-top:30px;
+}
+.logo{
+	float:left;
+	width:15%;
+}
+.logo img{
+	margin-top:15px;
+	margin-left:80px;
+}
+.leftnav{
+	float:left;
+	width:55%;
+}
+
+.hero li{
+	display:inline-block;
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:18px;
+	color:#314584;
+	padding:0 20px;
+}
+.title,.illustartion{
+	width:50%;
+	float:left;
+}
+.illustartion img{
+	width:100%;
+}
+.contenttitle{
+	padding-left:20%;
+	padding-top:110px;
+}
+.title h1{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:74px;
+	color:#314584;
+	width:80%;
+}
+.title p{
+	font-family: 'Work Sans', sans-serif;
+	font-size:18px;
+	color:#6e757a;
+	font-weight:400;
+	width:80%;
+	margin-bottom:70px;
+}
+.service1 h2{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:45px;
+	color:#314584;
+	width:75%;
+	margin-bottom:50px;
+}
+.service1 p{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+}
+.contentservice2 {
+	margin:0 40px;
+	padding:20px 35px;
+}
+.service2 h3 {
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:28px;
+	color:#314584;
+	width:70%;
+	margin-top:50px;
+}
+.service2 p {
+	font-family: 'Work Sans', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:#314584;
+	width:70%;
+	line-height:25px;
+}
+.clear{
+clear:both;		
+}
+.footer{
+	text-align: center;
+	background-color: #314584;
+	margin-top:80px;
+	color:#ffffff;
+}
+.footer h3{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:18px;
+	padding-top:40px;
+}
+.footer h2{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:48px;
+	padding-top:10px;
+	color:#ff3946;
+}
+.footer li{
+	display:inline-block;
+	padding:0 25px;
+}
+.menufooter{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:600;
+	font-size:18px;
+	padding:30px 0;
+}
+.footer p{
+	font-family: 'Work Sans', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	padding:10px 0;
+}
+.rsociaux{
+	font-size:32px;
+	padding:30px 0;
+}
